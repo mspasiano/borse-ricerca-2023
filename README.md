@@ -28,9 +28,11 @@ tra cui AGID, Accademia Nazionale dei Lincei, Istituto Superiore di Sanità, Con
 
 <!--s-->
 ## Configurazione del Bando
-#### ![Portale Riuso](img/conf_bando_1.png)
+#### ![Configuraione Bando](img/conf_bando_1.png)
 
-Se si dispone del ruolo di gestore assegnato alla tipologia **Borse di Ricerca** il menù 
+Se si dispone del ruolo di gestore assegnato alla tipologia **Borse di Ricerca** nel menù comparirà la voce che permette
+la creazione di un nuovo bando, inoltre sarà possibile copiare la configurazione di un bando creato in precedenza.
+
 
 <!--s-->
 
