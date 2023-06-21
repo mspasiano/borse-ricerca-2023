@@ -542,13 +542,17 @@ h2[data-irl]::after {
 }
 
 .footer-icon {
-    zoom: 0.3;
-    -ms-zoom: 0.3;
-    -webkit-zoom: 0.3;
-    -moz-transform:  scale(0.3,0.3);
+    zoom: 0.2;
+    -ms-zoom: 0.2;
+    -webkit-zoom: 0.2;
+    -moz-transform:  scale(0.2,0.2);
     -moz-transform-origin: left center;
 }
 
 [hidden] {
   display: inherit !important;
+}
+
+.text-min {
+  font-size: 0.7em; 
 }
