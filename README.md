@@ -30,7 +30,7 @@ tra cui AGID, Accademia Nazionale dei Lincei, Istituto Superiore di Sanità, Con
 ## Configurazione del Bando
 #### ![Portale Riuso](img/conf_bando_1.png)
 
-Se si dispone del ruolo di gestore assegnato alla tipologia **Borse di Ricerca**
+Se si dispone del ruolo di gestore assegnato alla tipologia **Borse di Ricerca** il menù 
 
 <!--s-->
 
