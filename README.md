@@ -7,8 +7,8 @@ Il Bando di concorso è una cartella della base documentale, la quale contiene d
 <!--s-->
 ## UN PÒ DI NUMERI
 
-Ad oggi la piattaforma ha gestito circa **2.600** bandi di cocorso tra Tempo determinato e indeterminato, PNRR, Direttori di Istituto ecc... ed ha
-raccolto circa **90.000** domande e **1.600.000** documenti.<!-- .element: class="text-justify" -->
+Ad oggi la piattaforma ha gestito circa **2.600** bandi di concorso tra Tempo determinato e indeterminato, PNRR, Direttori di Istituto ecc... ed ha
+raccolto circa **90.000** domande e quasi **2 Milioni** di documenti.<!-- .element: class="text-justify" -->
 
 Nel tempo si è evoluta con nuove funzionalità e nel 2019 è stata pubblicata sul Catalogo Nazionale dei software **open source** gestito dal 
 Dipartimento dell'innovazione della Presidenza del consiglio dei ministri, ad oggi è stata riutilizzata da **13** amministrazioni pubbliche
