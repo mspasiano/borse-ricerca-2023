@@ -24,6 +24,7 @@ const whoami = {
   age:        50,
   city:       'Napoli',
   company:    'Consiglio Nazionale delle Ricerche',
+  office:     'Ufficio ICT',
   profile:    'Primo Tecnologo',
   contacts: {
     email:      'marco.spasiano@cnr.it',
