@@ -1,5 +1,5 @@
 ---
-title: Borse di Ricerca - 23 Giugno 2023
+title: Borse di Ricerca al CNR - 23 Giugno 2023
 separator: <!--s-->
 verticalSeparator: <!--v-->
 theme: black
@@ -14,7 +14,7 @@ revealOptions:
   height: 900
 ---
 
-# Borse di Ricerca
+## Il nuovo Disciplinare per il conferimento delle Borse di Ricerca al CNR
 ### 23 Giugno 2023
 
 ```js 

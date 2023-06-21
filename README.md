@@ -34,9 +34,7 @@ tra cui:
 ## Configurazione del Bando
 ![Configurazione Bando](img/conf_bando_1.png)
 
-Se si dispone del ruolo di gestore assegnato alla tipologia **Borse di Ricerca** nel menù comparirà la voce che permette
-la creazione di un nuovo bando, inoltre sarà possibile copiare la configurazione di un bando creato in precedenza, modificando
-le informazioni eventualmente differenti.<!-- .element: class="text-justify" --> 
+Se si dispone del ruolo di gestore assegnato alla tipologia **Borse di Ricerca** nel menù comparirà la voce che permette la creazione di un nuovo bando, inoltre sarà possibile copiare la configurazione di un bando creato in precedenza, modificando le informazioni eventualmente differenti.<!-- .element: class="text-justify" --> 
 
 <!--v-->
 ## Sezione I - Dettagli Bando
